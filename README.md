@@ -38,12 +38,9 @@ result=inference.query(variables=[query_variable],evidence=evidence)
 print(result)
 
 ```
-
-
-
-
-
 ## Output :
+![image](https://github.com/Yugendaran/Ex-No.-3--Implementation-of-Exact-Inference-Method-of-Bayesian-Network/assets/128135616/b4bde09a-1070-4d27-a80c-b8fc520d0aef)
+
 
 ## Result :  
 
