@@ -39,9 +39,10 @@ print(result)
 
 ```
 ## Output :
-![image](https://github.com/Yugendaran/Ex-No.-3--Implementation-of-Exact-Inference-Method-of-Bayesian-Network/assets/128135616/b4bde09a-1070-4d27-a80c-b8fc520d0aef)
+![image](https://github.com/Yugendaran/Ex-No.-3--Implementation-of-Exact-Inference-Method-of-Bayesian-Network/assets/128135616/46fd5d83-84fa-4113-bf4e-cbc801bed188)
+
 
 
 ## Result :  
-
+Hence the implementation of Exact Inference Method of Bayesian Network Is implemented Successfully.
 
